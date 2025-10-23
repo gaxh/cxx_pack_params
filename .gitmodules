@@ -1,0 +1,3 @@
+[submodule "anyobj"]
+	path = anyobj
+	url = git@github.com:gaxh/anyobj.git
